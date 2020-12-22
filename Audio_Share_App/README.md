@@ -15,5 +15,5 @@ Login with your Spotify account.
 
 Create a room and wait for guests to join.
 
-![Waiting Room](/Sync/img/Screen%20Shot%202017-12-10%20at%205.00.44%20PM.png)
+![Waiting Room](https://github.com/Justiieee/Audio-Sharing-Web-App/blob/main/Audio_Share_App/Sync/img/Screen%20Shot%202017-12-10%20at%205.00.44%20PM.png)
 
