@@ -4,7 +4,7 @@
 Flask app for synchronizing playback of songs on multiple users' Spotify accounts. 
 
 
-![Beyonce & Ed Sheeran Now Playing](/Sync/img/Screen%20Shot%202017-12-05%20at%201.28.29%20PM.png)
+![Beyonce & Ed Sheeran Now Playing](https://github.com/Justiieee/Audio-Sharing-Web-App/blob/main/Audio_Share_App/Sync/img/Screen%20Shot%202017-12-05%20at%201.28.29%20PM.png)
 
 Login with your Spotify account.
 
